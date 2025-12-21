@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-color: #0A0A0B;
+  color: white;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif; /* Setup font separately if needed */
+  -webkit-font-smoothing: antialiased;
+}
